@@ -1,5 +1,5 @@
 # Lock
-Lock (encrypts) and unlock a file using a simple XOR on all the bytes of a file. 
+Lock (encrypts) and unlock a file using a simple XOR on all of the bytes of a file. 
 
 # How to use
 - compile the code.
